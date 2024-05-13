@@ -22,6 +22,8 @@ long fatorial(int fator)
   return valor;
 }
 
+int sinCos();
+
 
 
 int main()
