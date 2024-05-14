@@ -24,7 +24,8 @@ long fatorial(int fator)
 
 int sinCos();
 
-
+int func();
+//altera
 
 int main()
 {
