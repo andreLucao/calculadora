@@ -22,11 +22,6 @@ long fatorial(int fator)
   return valor;
 }
 
-int sinCos();
-
-int func();
-//altera
-
 int main()
 {
   int resultado = fatorial(5);
