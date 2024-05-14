@@ -12,6 +12,8 @@ int potencia(int base, int expoente)
   //adicionar para nmrs float
 }
 
+//version 4
+
 long fatorial(int fator)
 {
   long valor = 1;
